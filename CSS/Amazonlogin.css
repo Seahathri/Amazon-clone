@@ -1,0 +1,332 @@
+.maindiv{
+    display: flex;
+   
+    
+}
+
+.navleft{
+background-color:#0f1111;
+border: 0px;
+width: 1351px;
+height: 60px;
+display: flex;
+
+}
+.amazonbox{
+margin: 1px;
+padding: 1px 8px 4px 6  px;
+margin-left: 6px;
+
+}
+.amazonimg{
+height: 50px;
+width: 128.27;
+margin-top: 5px;
+
+margin-left: 5px;
+
+}
+.box2{
+width: 163.75px;
+height: 50px;
+margin: 5px 2px 5px 0px;
+padding: 0px 9px;
+}
+
+.location{
+    cursor:default;
+height: 17px;
+width: 20px;
+
+margin-left: 3px;   
+margin-bottom: 10px;
+}
+
+
+.hello{
+     cursor:default;
+    width: 127.75px;
+    height: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cccccc;
+    font-size: smaller;
+    margin-left: 25px;
+    margin-top: 5px;
+    
+
+   
+}
+.address{
+    width: 127.75px;
+    height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 0px 0px 1px;
+    
+    
+    
+}
+.navsearch{
+    background-color:#0f1111;
+    border: 0px;
+    width: 394.66px;
+    height: 60px;
+    display: flex;
+}
+.topAll{
+    width: 52px;
+    height:40px;
+    background-color:#f3f3f3;
+    margin-top: 10px;
+    padding: 0px 0px 0px 5px;
+    font-size: 14px;
+    color: #0f1111;
+    gap: 0px;
+    margin-right: 0px;
+    border-radius: 5px;
+    
+}
+.topsearch{
+    width: 460px;
+    height:40px;
+    background-color:#f3f3f3;
+    margin-top: 10px;
+    padding: 0px 0px 0px 5px;
+    font-size: 14px;
+    color: #0f1111;
+    gap: 0px;
+    margin-left: 0px;
+    border-radius: 5px;
+    
+}
+.topsearchicon{
+    width: 45px;
+    height:40px;
+    margin-top: 10px;
+    background-color:  #FF9900;
+    border-radius: 5px;
+}
+.searchicon{
+    width: 20px;
+    height:25px;
+
+
+}
+
+
+.rightnav{
+    background-color:#0f1111;
+    border: 0px;
+    width: 383.86px;
+    height: 60px;
+    display: flex;
+}    
+
+.alllang{
+    width: 50px;
+    height:40px;
+    background-color:#d6d6d6;
+    color: #ffffff;
+    margin-top: 10px;
+    padding: 0px 0px 0px 5px;
+    font-size: 16px;
+    color: #0f1111;
+    gap: 0px;
+    margin-right: 0px;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+
+.signinbox{
+
+margin-left: 35px;
+text-align:justify;
+margin-top: 8px;
+
+}
+
+.hellosignin{
+    width: 127.75px;
+    height: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cccccc;
+    font-size: smaller;
+   
+    margin-top: 5px;
+}
+.address2{
+    width: 127.75px;
+    height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 0px 0px 1px;
+    background-color: none;
+}
+
+.orderbox{
+
+    margin-left: 35px;
+    text-align:justify;
+    margin-top: 8px;
+    
+    }
+.return{
+    width: 127.75px;
+    height: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cccccc;
+    font-size: small;
+ 
+    margin-top: 5px;
+}
+.orders{
+    width: 127.75px;
+    height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 0px 0px 1px;
+    background-color: none;
+
+}
+
+.cartbox{
+    margin: 1px;
+    padding: 1px 8px 0px 6px;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 0px 0px 1px;
+    background-color: none; 
+    
+    }
+    .cartimg{
+    height: 50px;
+    width: 84;
+    
+    }
+    .nav2{
+background-color:#232f3e ;
+padding: 11px;
+font-family: Arial, Helvetica, sans-serif;
+color: #ffffff;
+font-size: 14px;
+display: flex;
+gap: 37px;
+width: 1329px;
+height: 24px;
+text-align: center;
+
+}
+.navimg{
+    margin-left: 40px;
+    width: 500px;
+    height: 30px;
+
+}
+.bgimg{
+width: 1351px;
+height: 600px;
+background-image: url(C:/Users/sesha/Desktop/Amazon/Img/slidebg3.jpg);
+}
+
+
+/* __________________________________ */
+
+.card-container{
+    height: 100vh;
+    background-image:url(C:/Users/sesha/Desktop/Amazon/Img/slidebg3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.top-card {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    justify-content: center;
+     margin-right: 20px;
+    margin-left: 20px;
+}
+.card-1{
+    width: 350px;
+    height: 356px;
+    background-color: aqua;
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+}
+.card-2{
+    width: 350px;
+    height: 356px;
+    background-color: aqua;
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+}
+.card-3{
+    width: 350px;
+    height: 356px;
+    background-color: aqua;
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.card-4{
+    width: 350px;
+    height: 400px;
+    margin-top: 300px;
+   
+}
+.signin-card{
+    background-color: aqua;
+    margin-top: 10px;
+    width: 100%;
+    border: none;
+    padding: 8px;
+    border-radius: 10px;
+
+    
+}
+.lap-card{
+    width: 250px;
+    height: 240px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 60px;
+    display: flex;
+    justify-content: center;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
